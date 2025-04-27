@@ -21,8 +21,7 @@ It is built entirely using **SQL** and is structured for easy integration into l
 - Event Participation Table
 
 ## 🗺️ ER Diagram
-![ER Diagram](diagrams/er-diagram.png)
-![ER_ngo-management system](https://github.com/user-attachments/assets/511fcc46-7a6f-4d57-9088-8e8826965035)
+![ER Diagram](diagrams/er-diagram.md)
 
 
 ## 🚀 Setup Instructions
