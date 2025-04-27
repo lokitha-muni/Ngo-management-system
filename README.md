@@ -22,6 +22,8 @@ It is built entirely using **SQL** and is structured for easy integration into l
 
 ## 🗺️ ER Diagram
 ![ER Diagram](diagrams/er-diagram.png)
+![ER_ngo-management system](https://github.com/user-attachments/assets/511fcc46-7a6f-4d57-9088-8e8826965035)
+
 
 ## 🚀 Setup Instructions
 1. Clone the repository.
