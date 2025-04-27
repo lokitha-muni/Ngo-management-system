@@ -21,7 +21,7 @@ It is built entirely using **SQL** and is structured for easy integration into l
 - Event Participation Table
 
 ## 🗺️ ER Diagram
-![ER Diagram](diagrams/er-diagram.md)
+![ER Diagram](ER- Diagram.md)
 
 
 ## 🚀 Setup Instructions
